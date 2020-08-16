@@ -31,11 +31,11 @@ public class collectionsTest {
      */
     private static void highestNumber(int a, int b, int c) {
         if (a > b && a > c) {
-            System.out.println("Parameters - Highest is " + a);
+            System.out.println("Parameters - Highest number is " + a);
         } else if (b > a && b > c) {
-            System.out.println("Parameters - Highest is " + b);
+            System.out.println("Parameters - Highest number is " + b);
         } else {
-            System.out.println("Parameters - Highest is " + c);
+            System.out.println("Parameters - Highest number is " + c);
         }
     }
     
