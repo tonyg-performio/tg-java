@@ -2,5 +2,5 @@ package com.tony.java.lambda;
 
 public interface GreetingService {
     
-    void greet(String name);
+    String greet(String name);
 }
